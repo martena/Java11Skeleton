@@ -1,17 +1,18 @@
 Name:
 
 
-1.
+1. Source code is something created by a programmer that a programmer can read
+	a Byte code is a fie that the computer reads that is very hard for a person to read
 
-2.
+2. A class is a sub-division of your code
 
-3.
+3. The main method is 
 
-4.
+4. A string is multiple characters inbetween two quotes though the quotation marks are not included within the string
 
-5.
+5. Java is case sensitive 
 
-6.
+6. A bug is when a program doesnt have any syntax errors but fails to preform as intended
 
 7.
 
